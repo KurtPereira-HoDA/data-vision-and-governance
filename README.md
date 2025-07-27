@@ -1,2 +1,5 @@
 The following files have been created based on a fictiuous company, Artemis. They aim to provide a high level approach to implmenting a data vision which includes building a strategy, principles, strategies and a pragmatic roadmap to execute. 
-
+There are three documents:
+  1. Creating a Data Vision and Strategy: Outlines the prcoess to create a data vision and then accompanying strategy and roadmap. This includes what good looks like,       CxO engagement, questions to be asked, assessing maturity and principles 
+  2. Creating a Data Governance and Management Mocdel: Provides a high level plan to creating a DG&M model based on DAMA DMBOK. This includes everything from ownership     down to metadata management and risk and controls management 
+  3. Opportunity Tracker: This is a template that businesses can use to evaluate data and AI opportunities. The Opportunity Tracker uses a consistent scoring framework      to assess each initiative across two key dimensions: Benefit Realisation and Technical Feasibility. This dual lens helps decision-makers balance ambition with          execution capability
